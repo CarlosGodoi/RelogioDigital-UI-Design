@@ -1,4 +1,6 @@
-# RelogioDigital-UI-Design
-# Relogio desenvolvido em HTML e CSS utilizando conceitos de UI design
-# Irei implementar o funcionamento do relogio através do JavaScript
-# Projeto inacabado 😑
+# RelogioDigital-UI-Design ⏰
+* Tecnologias utilizadas para criar a interface 
+- HTML ✅
+- CSS3 ✅
+- Faltando implementar o funcionamento através do JavaScript ⏩
+
